@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{avalon node_modules}" />
+    <file url="file://$PROJECT_DIR$/server/alg.js" libraries="{Node.js Globals, Node.js v5.9.0 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/server/data.js" libraries="{Node.js Globals, Node.js v5.9.0 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/server/index.js" libraries="{Node.js v5.9.0 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/server/main.js" libraries="{Node.js Globals, Node.js v5.9.0 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/server/parser.js" libraries="{Node.js v5.9.0 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/server/server.js" libraries="{Node.js Globals, Node.js v5.9.0 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/server/sql/connector.js" libraries="{Node.js Globals, Node.js v5.9.0 Core Modules, WebGL}" />
+    <file url="file://$PROJECT_DIR$/server/sql/index.js" libraries="{Node.js v5.9.0 Core Modules}" />
+  </component>
+</project>
